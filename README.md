@@ -20,6 +20,5 @@ self.real_test = psnawp_api.PSNAWP('npsso'))
 ```
 # MultiTask Options
 > This Application Not Supported From Threads Bots
-
-
-<img src="https://github.com/RustCompiler/NpssoKiller/blob/main/npsso.png">
+<br><br>
+<img with="300px" src="https://github.com/RustCompiler/NpssoKiller/blob/main/npsso.png">
