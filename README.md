@@ -3,6 +3,13 @@
 # SonyAuth ( NPSSO Method )
 ### Ready To Use All Windows
 <br>
+
+# Run App:
+```
+Extract All Part RAR in -> / root folder
+Run SonyAuth.exe
+```
+
 # Application Options ( V 1.0.0 )
 
 - [x] Set Npsso Without Browser Only Result
