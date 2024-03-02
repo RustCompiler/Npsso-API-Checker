@@ -1,4 +1,4 @@
-# NpssoKiller
-### Proccessing , Soon ...
+# SonyAuth ( NPSSO Method )
+### Ready To Use All Windows
 <br>
-<img src="https://github.com/RustCompiler/NpssoKiller/blob/main/NpssoKiller.png">
+<img src="https://github.com/RustCompiler/NpssoKiller/blob/main/">
