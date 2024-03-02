@@ -1,3 +1,5 @@
+<img src="https://github.com/RustCompiler/NpssoKiller/blob/main/Npsso.png">
+
 # SonyAuth ( NPSSO Method )
 ### Ready To Use All Windows
 <br>
@@ -21,6 +23,3 @@ self.real_test = psnawp_api.PSNAWP('npsso'))
 # MultiTask Options
 > This Application Not Supported From Threads Bots
 <br>
-<br>
-<br>
-<img src="https://github.com/RustCompiler/NpssoKiller/blob/main/npsso.png">
