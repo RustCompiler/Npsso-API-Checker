@@ -4,10 +4,15 @@
 ### Ready To Use All Windows
 <br>
 
-# Run App:
+# Program environment
+<img src="https://github.com/RustCompiler/Npsso-API-Checker/blob/main/temps/Project_PHOTO.jpg">
+
+<br>
+
+# Prerequisites :
 ```
-Extract All Part RAR in -> / root folder
-Run SonyAuth.exe
+Install Google Chrome Version 122
+Presence of the Web Driver file and the Config folder next to the program executable file
 ```
 
 # Application Options ( V 1.0.0 )
