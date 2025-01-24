@@ -15,23 +15,20 @@ Install Google Chrome Version 122
 Presence of the Web Driver file and the Config folder next to the program executable file
 ```
 
-# Application Options ( V 1.0.0 )
+# Application Options ( V 2.0.0 )
 
-- [x] Set Npsso Without Browser Only Result
-- [x] Set Npsso With API Token ( With Browser )
-- [x] Safe and Update API
-- [x] Use Webdriver Chrome ( Selenium )
-- [x] Need Chrome Version 122.0.6261.95 
+- [x] Check NPSSO Token ( Without Browser )
+- [x] Check NPSSO Token ( With Browser )
+- [x] Redirect ( device management )
+- [x] SAVE NPSSO ( Log's )
+- [x] SAVE ( HIT:NPSSO ) For Seller's
 
 ***
 <br>
 
-# Use API Psnawp_api:
-```
-import psnawp_api
-self.real_test = psnawp_api.PSNAWP('npsso'))
+### Use API PSNAWP ( For Method Without Browser )
 
-```
-# MultiTask Options
-> This Application Not Supported From Threads Bots
+#  Crash Appliction
+> Prevent program crashes by accurately bypassing system problems and errors
+> Any problems in the TXT file are reported to the user in the form of a log.
 <br>
